@@ -21,7 +21,7 @@ body {
     width: 850px;
     gap: 70px;
     padding: 60px 40px;
-    background: #fff;
+    background: #6f3f0c;
     border-radius: 10px;
     align-items: flex-end;
     justify-content: space-between;
@@ -86,7 +86,7 @@ body {
     font-weight: 600;
     border-radius: 4px;
     text-transform: uppercase;
-    background: #87ceeb;
+    background: #1e292d;
 }
 .keyboard button {
     padding: 7px;
@@ -125,7 +125,7 @@ body {
     max-width: 420px;
     width: 100%;
     border-radius: 10px;
-    background: #fff;
+    background: #ffffff;
     text-align: center;
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
